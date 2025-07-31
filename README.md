@@ -30,6 +30,19 @@ Issues and Fixes
 - Predict `Sales` or `Revenue` from input variables
 - Trained model saved and reused for fast prediction
 
+# Issues and Fixes
+**Issue**
+ORDERDATE not parsed	
+**Fix **
+Used pd.to_datetime(df["ORDERDATE"])
+**Issue**
+Future sales gave float output	
+**Fix **
+Converted predictions to int using .astype(int)
+**Issue**
+Path issues	
+Used relative paths instead of full disk paths
+
  # Technologies Used
 
 - **Python**
