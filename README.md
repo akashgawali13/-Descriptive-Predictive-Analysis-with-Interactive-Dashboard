@@ -3,20 +3,23 @@
 This project combines **exploratory data analysis** and **machine learning** into a fully interactive dashboard using **Python**, designed to deliver both **insights and forecasts** from a sales dataset.
 
 # Project Overview
+
 This project showcases both Descriptive and Predictive Analytics using a sales dataset. The application is built with Streamlit and provides an interactive dashboard where users can explore key metrics, filter by region/product, and view future sales predictions using a machine learning model.
 
 # Files
--**Model.py**- ML model training & prediction function
--**app.py** - Main Streamlit app
--**sales_data_sample.csv** - Sales dataset
--**requirements.txt** - Libraries used
+
+- **Model.py** - ML model training & prediction function  
+- **app.py** - Main Streamlit app  
+- **sales_data_sample.csv** - Sales dataset  
+- **requirements.txt** - Libraries used  
 
 # Features
-📈 Monthly sales trend visualization
-🌍 Country-wise sales distribution
-🛍️ Product line-wise total sales
-🔮 Predict future sales using Linear Regression
-📊 Interactive filtering by Country and Product Line
+
+- Monthly sales trend visualization  
+- Country-wise sales distribution  
+- Product line-wise total sales  
+- Predict future sales using Linear Regression  
+- Interactive filtering by Country and Product Line  
 
 
 # Descriptive Analytics
