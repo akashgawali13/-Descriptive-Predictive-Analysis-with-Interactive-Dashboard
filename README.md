@@ -1,4 +1,4 @@
-# -Descriptive-Predictive-Analysis-with-Interactive-Dashboard
+# Descriptive-Predictive-Analysis-with-Interactive-Dashboard
 
 This project combines **exploratory data analysis** and **machine learning** into a fully interactive dashboard using **Python**, designed to deliver both **insights and forecasts** from a sales dataset.
 
